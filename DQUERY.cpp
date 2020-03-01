@@ -16,7 +16,7 @@ using namespace std;
 
 const int N = 1e6 + 69;
 const int NN = 2e3 + 69;
-const int INF = 1e6 + 9;
+const int INF = 1e9 + 7;
 const int mod = 1e9 + 7;
 const int BLOCK = 174;
 
